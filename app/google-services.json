@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "386923477277",
+    "firebase_url": "https://gamebai-1f5a7-default-rtdb.firebaseio.com",
+    "project_id": "gamebai-1f5a7",
+    "storage_bucket": "gamebai-1f5a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386923477277:android:89fecf01b58c8f7099c9f4",
+        "android_client_info": {
+          "package_name": "com.supertiger.nohu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386923477277-j74d7fu1gk80t8pf5jsblvdllol40sua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSthERm3-SnCv8fiepRJdNEnREBgRxn-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386923477277-j74d7fu1gk80t8pf5jsblvdllol40sua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
