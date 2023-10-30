@@ -13,7 +13,7 @@ class MainSplashActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         Glide.with(this).load(R.raw.progress).into(binding.imvProgress)
-        Glide.with(this).load(R.raw.logo).into(binding.imvLogo)
+        Glide.with(this).load(R.raw.logo_tiger).into(binding.imvLogo)
 
         binding.imvProgress.postDelayed({
             val intent = Intent(this, GameDetailActivity::class.java)

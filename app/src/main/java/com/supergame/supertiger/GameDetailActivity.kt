@@ -49,7 +49,7 @@ class GameDetailActivity : AppCompatActivity() {
 
     private fun initAnimation() {
         Glide.with(this)
-            .load(R.raw.logo)
+            .load(R.raw.logo_tiger)
             .into(binding.imvLogo)
         Glide.with(this)
             .load(R.raw.support2)
